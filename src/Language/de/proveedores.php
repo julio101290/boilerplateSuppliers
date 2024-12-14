@@ -14,7 +14,7 @@
   $proveedores["fields"]["email"] = "E-Mail";
   $proveedores["fields"]["direction"] = "Adresse";
   $proveedores["fields"]["birthdate"] = "Geburtsdatum";
-  $sproveedores["fields"]["created_at"] = "Erstellungsdatum";
+  $proveedores["fields"]["created_at"] = "Erstellungsdatum";
   $proveedores["fields"]["updated_at"] = "Letzte Änderung";
   $proveedores["fields"]["deleted_at"] = "Löschdatum";
 
