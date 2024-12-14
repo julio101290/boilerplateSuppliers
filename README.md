@@ -35,7 +35,7 @@ CodeIgniter4 Boilerplatesuppliers CRUD MVC for capture suppliers, with fields as
 
 # Make the Menu, Example
 
-![image](https://github.com/user-attachments/assets/f8087b9b-48db-45ce-bd39-ffd3bd42af04)
+![image](https://github.com/user-attachments/assets/e258efbc-b0e2-416d-b1b2-4cdfb2f053c9)
 
 
 # Ready
