@@ -110,7 +110,11 @@ class ProveedoresController extends BaseController {
                     ->findAll(10);
         }
 
-        $data = array();
+         $data[] = array(
+                "id" => "0",
+                "text" => '0 Seleccione Proveedor',
+            );
+         
         foreach ($listProveedores as $proveedores) {
             $data[] = array(
                 "id" => $proveedores['id'],
